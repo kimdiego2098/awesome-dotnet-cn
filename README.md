@@ -78,9 +78,6 @@ https://github.com/shadowsocksrr/shadowsocksr-csharp
 开源的分布式任务调度系统，基于.NET Core 3.1平台构建，支持跨平台多节点部署运行  
 https://github.com/hey-hoho/ScheduleMaster [![NuGet Version](https://img.shields.io/nuget/v/ScheduleMaster.svg?style=flat)](https://www.nuget.org/packages/ScheduleMaster/) [![NuGet](https://img.shields.io/nuget/dt/ScheduleMaster)](https://www.nuget.org/packages/ScheduleMaster)
 
-物联网采集平台  
-https://github.com/IoTSharp/IoTSharp [![NuGet Version](https://img.shields.io/nuget/v/IoTSharp.X509Extensions.svg?style=flat)](https://www.nuget.org/packages/IoTSharp.X509Extensions/) [![NuGet](https://img.shields.io/nuget/dt/IoTSharp.X509Extensions)](https://www.nuget.org/packages/IoTSharp.X509Extensions) 
-
 基于xlua的MVVM框架  
 https://github.com/Justin-sky/Nice-Lua
 
@@ -89,6 +86,15 @@ https://github.com/shnug/CalculationEngine
 
 验证码识别 发票标号识别 图片识别  
 https://github.com/ccccccmd/ReCapcha
+
+## 物联网/设备接入
+
+物联网采集平台  
+https://github.com/IoTSharp/IoTSharp [![NuGet Version](https://img.shields.io/nuget/v/IoTSharp.X509Extensions.svg?style=flat)](https://www.nuget.org/packages/IoTSharp.X509Extensions/) [![NuGet](https://img.shields.io/nuget/dt/IoTSharp.X509Extensions)](https://www.nuget.org/packages/IoTSharp.X509Extensions) 
+
+边缘采集网关ThinsGateway  
+https://github.com/kimdiego2098/ThingsGateway
+
 
 ## 大数据/架构/区块链
 分布式云计算网络  
